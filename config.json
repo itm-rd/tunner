@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "reviewAfterTunings": 4,
+  "ads": {
+    "enabled": true,
+    "banner": true,
+    "native": true,
+    "interstitial": true,
+    "rewarded": true,
+    "appOpen": false,
+    "interstitialMinGapSeconds": 240,
+    "interstitialMaxPerSession": 3,
+    "minSecondsOnScreen": 20,
+    "minSessionMinutes": 5,
+    "appOpenMinGapMinutes": 240,
+    "proHours": 24,
+    "adFreeMinutes": 60,
+    "nativeEvery": 8
+  }
+}
